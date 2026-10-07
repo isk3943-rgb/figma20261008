@@ -1579,6 +1579,19 @@ section,
     line-height: 1.4;
   }
 
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    text-align: left;
+  }
+
+  .eyebrow.center {
+    justify-content: flex-start;
+  }
+
   .center-head h2,
   .feature-head h2,
   .why-copy h2,
